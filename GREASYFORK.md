@@ -52,7 +52,7 @@
 
 **GitHub 源码：** https://github.com/Wan-JD/educoder-helper
 
-**随缘支持：** [爱发电 · jd0512](https://ifdian.net/a/jd0512)（仅 ¥5 一档，自愿即可；实训页 ⚡ 面板底部也有入口）
+**支持作者：** [爱发电](https://ifdian.net/a/jd0512)（实训页 ⚡ 面板底部也有入口）
 
 ### 常见问题
 

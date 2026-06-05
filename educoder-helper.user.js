@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         头歌实践教学平台助手
 // @namespace    https://github.com/Wan-JD/educoder-helper
-// @version      1.0.3
+// @version      1.0.4
 // @description  解除复制粘贴限制；实训页一键复制/导出代码、测试用例汇总；课堂实验截止提醒
 // @author       Wan-JD
 // @license      MIT
@@ -424,7 +424,7 @@
         <button class="edu-btn" data-act="tests">🧪 汇总本页测试用例并复制</button>
         <button class="edu-btn" data-act="patch">🔧 重新解除粘贴限制</button>
         <p class="edu-muted">粘贴仍失败时：先点编辑器内部，再 Ctrl+V；或点「重新解除」。</p>
-        <p class="edu-muted edu-support"><a href="https://ifdian.net/a/jd0512" target="_blank" rel="noopener noreferrer">爱发电 · 随缘支持（¥5）</a></p>
+        <p class="edu-muted edu-support"><a href="https://ifdian.net/a/jd0512" target="_blank" rel="noopener noreferrer">爱发电支持作者</a></p>
         <pre class="edu-pre" id="edu-helper-pre" style="display:none"></pre>
       </div>
     `;
